@@ -4282,6 +4282,12 @@ break
                 })
             }		
             break
+			case 'fbdl': case 'facebook': {
+if (!text) return `Where's the link??`
+let anu = await fetchJson(`https://xeonapi.onrender.com/api/dowloader/fbdown?url=${q}&apikey=a565ddca`)
+conn.sendMessage(m.chat, { video: { url: anu.result.HD }, caption: 'Here you go!.'}, {quoted: m})
+}
+break
             case 'tiktokmp3':
             case 'tiktokaudio': {
                 if (!text) return 'Link TikTok Ya Mana?'
