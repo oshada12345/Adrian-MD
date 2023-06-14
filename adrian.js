@@ -4277,15 +4277,15 @@ break
                 if (!text) return 'Link TikTok Ya Mana?'
                 m.reply(mess.wait)
                 let anu = await fdl.downloader.tiktok(text)
-                conn.sendMessage(m.chat, { video: { url: anu.nowm} }, {
+                conn.sendMessage(m.chat, { video: { url: anu.video2} }, {
                     quoted: fvideo
                 })
             }		
             break
 			case 'fbdl': case 'facebook': {
 if (!text) return `Where's the link??`
-let anu = await fetchJson(`https://api-fgmods.ddns.net/api/dowloader/fbdl?url=${q}&apikey=2d0e6614`)
-conn.sendMessage(m.chat, { video: { url: result.videoUrl  }, caption: 'Here you go!.'}, {quoted: m})
+let anu = await fetchJson(`https://api-bot-phvl.onrender.com/api/dowloader/fbdown?url=${q}&apikey=70beb470`)
+conn.sendMessage(m.chat, { video: { url: result.HD  }, caption: 'Here you go!.'}, {quoted: m})
 }
 break
             case 'tiktokmp3':
@@ -6928,6 +6928,7 @@ ${readmore}
             let me = m.sender
             const more = String.fromCharCode(8206)
             const readmore = more.repeat(4001) 
+		    
             let ments = [ownernya, me, ini_mark]
                 anu = `「 Hi, ${pushname}👋 」
 「 ${ucapanWaktu} 」
