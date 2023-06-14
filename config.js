@@ -39,7 +39,7 @@ global.author = 'Fuck You Bitch\nYEEEEEE'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
-global.sessionName = 'session-1'
+global.sessionName = 'session'
 
 //—————「 Set Prefix 」—————//
 //gausah di apa² ini!
