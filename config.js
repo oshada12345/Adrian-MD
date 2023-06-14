@@ -12,26 +12,26 @@ global.APIKeys = {
 }
 global.lolhuman = 'APOLOZEA'
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = '𝙰𝙳𝚁𝙸𝙰𝙽-𝙼𝙳'
-global.namaowner = '𝙰𝙳𝚁𝙸𝙰𝙽'
+global.namabot = 'SATHAN'
+global.namaowner = 'SATHAN'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289513081052']
-global.ownernomer = "6289513081052"
-global.premium = ['6289513081052']
+global.owner = ['94703698781']
+global.ownernomer = "94703698781"
+global.premium = ['94703698781']
 global.ultah = 'Maret 24, 2024'
 
 //—————「 Setting Donasi 」—————//
-global.dana = '089513081052'
+global.dana = '94703698781'
 
 //—————「 Set Kebutuhan Button 」—————//
-global.email = 'azzygota24@gmail.com'
+global.email = '94703698781.com'
 global.namaweb = 'TikTok'
-global.myweb = 'https://tiktok.com/@dryan.am'
-global.region = 'Indonesia'
-global.github = 'https://github.com/AdrianTzy'
-global.mygc = 'https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10'
-global.myig = 'https://instagram.com/dryan.pu'
+global.myweb = 'https://tiktok.com/@94703698781.am'
+global.region = '94703698781'
+global.github = 'https://github.com/94703698781'
+global.mygc = 'https://chat.whatsapp.com/94703698781'
+global.myig = 'https://instagram.com/dryan94703698781pu'
 
 //—————「 Set Wm 」—————//
 global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
