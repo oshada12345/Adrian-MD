@@ -34,8 +34,8 @@ global.mygc = 'https://chat.whatsapp.com/94703698781'
 global.myig = 'https://instagram.com/dryan94703698781pu'
 
 //—————「 Set Wm 」—————//
-global.packname = '𝚂𝚃𝙸𝙲𝙺𝙴𝚁 𝙱𝚈 𝙰𝙳𝚁𝙸𝙰𝙽𝙱𝙾𝚃\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = '𝙹𝙰𝙽𝙶𝙰𝙽 𝙻𝚄𝙿𝙰 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴\n𝚈𝚃:𝙳𝚁𝚈𝙰𝙽𝙱𝙾𝚃'
+global.packname = 's t i c k e r by S A T A N\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
+global.author = 'Fuck You Bitch\nYEEEEEE'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
@@ -53,32 +53,32 @@ global.sp = '•'
 
 //—————「 Set Message 」—————//
 global.mess = {
-    success: '🤗Done, Oke Desu~',
-    admin: '❗Perintah Ini Hanya Bisa Digunakan Oleh Admin Group !',
-    botAdmin: '❗Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin Group !',
-    owner: '❗Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: '❗Perintah Ini Hanya Bisa Digunakan Di Group Chat !',
-    private: '❗Perintah Ini Hanya Bisa Digunakan Di Private Chat !',
-    bot: '🤖 Fitur Khusus Pengguna Nomor Bot !',
-    wait: '⏳ Sedang Di Proses !',
-    endLimit: '🕊️ Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12 !',
-    error: '🚫 Fitur Sedang Error !',
+    success: '🤗EKA Hari Whotto',
+    admin: '❗moda pco meka adminlata witharai !',
+    botAdmin: '❗pco meka group adminta witharai puluwan!',
+    owner: '❗meka mage !',
+    group: '❗meka group chat ekak modayo !',
+    private: '❗private chat witharai !',
+    bot: '🤖 Special Features for Bot Number Users!',
+    wait: '⏳ Being processed (man eka hadala dennam tikak inna) !',
+    endLimit: '🕊️ Your Daily Limit Has Been Expired, The Limit Will Reset Every 12 Hours !',
+    error: '🚫 Error feature (hknw) !',
 }
 
 //—————「 Set Limit 」—————//
 //terserah mau ubah atau nggak
 global.limitawal = {
     premium: "Infinity",
-    free: 10,
+    free: 999,
 }
 
 //—————「 Set Image 」—————//
 //global.thumb = 'https://telegra.ph/file/1537b118bad59ab8fa15e.png'
 global.thumb = fs.readFileSync('./media/image/adrian.jpg')
 global.kurome = { url: 'https://a.uguu.se/faLPPBPP.mp4' }
-global.botname = 'AdrianTzy Creator'
-global.akulaku = 'Bot By AdrianTzy'
-global.ttname = 'TikTok AdrianTzy'
+global.botname = 'Vimukthi Oshada'
+global.akulaku = 'Bot By Oshada'
+global.ttname = 'ubetta'
 
 //—————「 Set Random Image Menu 」—————//
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
