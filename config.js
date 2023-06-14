@@ -8,7 +8,7 @@ global.APIs = {
 
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
-    'https://api.zahwazein.xyz': 'zenzkey_1fb6d1325155'
+    'https://api-bot-phvl.onrender.com': '70beb470'
 }
 global.lolhuman = 'APOLOZEA'
 //—————「 Set Nama Bot & Own 」—————//
