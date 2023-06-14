@@ -4285,7 +4285,7 @@ break
 			case 'fbdl': case 'facebook': {
 if (!text) return `Where's the link??`
 let anu = await fetchJson(`https://api-fgmods.ddns.net/api/dowloader/fbdl?url=${q}&apikey=2d0e6614`)
-conn.sendMessage(m.chat, { video: { url: anu.result.HD }, caption: 'Here you go!.'}, {quoted: m})
+conn.sendMessage(m.chat, { video: { url: result.videoUrl  }, caption: 'Here you go!.'}, {quoted: m})
 }
 break
             case 'tiktokmp3':
