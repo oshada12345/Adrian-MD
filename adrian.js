@@ -4281,6 +4281,16 @@ break
                     quoted: fvideo
                 })
             }
+
+			case 'tiktok':{ 
+if (!text) return return 'Link TikTok Ya Mana?'
+ m.reply(mess.wait)
+replygcxeon(mess.wait)
+require('./lib/tiktok').Tiktok(q).then( data => {
+conn.sendMessage(m.chat, { caption: `Here you go!`, video: { url: data.watermark }}, {quoted:m})
+})
+}
+			
             break
             case 'tiktokmp3':
             case 'tiktokaudio': {
