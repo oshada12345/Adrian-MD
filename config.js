@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 //—————「 Website Apikey 」—————//
 global.APIs = {
-    zahwa: 'https://api.zahwazein.xyz'
+    zahwa: 'https://api-bot-phvl.onrender.com'
 }
 
 //—————「 Website Apikey 」—————//
